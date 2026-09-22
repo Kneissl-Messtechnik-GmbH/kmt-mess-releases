@@ -1,6 +1,19 @@
 {
-  "version": "0.0.0",
-  "notes": "Noch keine Fassung veroeffentlicht.",
-  "pub_date": "1970-01-01T00:00:00Z",
-  "platforms": {}
+  "version": "0.2.0",
+  "notes": "KMT Messsoftware 0.2.0",
+  "pub_date": "2026-09-22T14:16:11Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa2tNLzlQc3R3czl3SjdxdUlmeGRtMXNGdGR0dTFTemtXQWRtMEUvcGdVSklFdUhDOTRUUHlPcE1zWkpsaVJzNFVqQjJBQk1xNGZGYk14bTBnTG1yWVU2SjJlWUVGL0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDg2MzUxCWZpbGU6S01UIE1lc3Nzb2Z0d2FyZV8wLjIuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjAKdTRiZUczZVdyYWVyYk9TUlRveDRJNzBMM1RiRWpMN3NiYlJrUS9sd3FmdnBaVlkzazFjSDVBTll6VkRDVitjV2ZkNHJXOEFRL1dSdmpraXV3SjJvQ0E9PQo=",
+      "url": "https://github.com/Kneissl-Messtechnik-GmbH/kmt-mess-releases/raw/main/releases/0.2.0/KMT%20Messsoftware_0.2.0_x64-setup.exe"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa2tNLzlQc3R3czBsM0dmS1UrUnN4YU9WMkFmUXd6VU1hWTZXOUdneFpuZ2VNY1hyaExYcjlsaXZZY1RyMzhQbm1rWko1djJhZ1p1RUFVd3FOUU9YOXpXdVRGQ3Zpc3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDg2NTY3CWZpbGU6S01UIE1lc3Nzb2Z0d2FyZS5hcHAudGFyLmd6CXZlcnNpb246MC4yLjAKbEE1c3lkYkFTSVloUVRBaitLMFhpcktKdmZsVG1hdjZaWVJBWU1uSXR6c0Q3b2pPSXlTb3hSdWdIS1JmTzZhT3E1SnZpR3B2QVVmVjFrWnJaaGJCQnc9PQo=",
+      "url": "https://github.com/Kneissl-Messtechnik-GmbH/kmt-mess-releases/raw/main/releases/0.2.0/KMT%20Messsoftware.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa2tNLzlQc3R3czBsM0dmS1UrUnN4YU9WMkFmUXd6VU1hWTZXOUdneFpuZ2VNY1hyaExYcjlsaXZZY1RyMzhQbm1rWko1djJhZ1p1RUFVd3FOUU9YOXpXdVRGQ3Zpc3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDg2NTY3CWZpbGU6S01UIE1lc3Nzb2Z0d2FyZS5hcHAudGFyLmd6CXZlcnNpb246MC4yLjAKbEE1c3lkYkFTSVloUVRBaitLMFhpcktKdmZsVG1hdjZaWVJBWU1uSXR6c0Q3b2pPSXlTb3hSdWdIS1JmTzZhT3E1SnZpR3B2QVVmVjFrWnJaaGJCQnc9PQo=",
+      "url": "https://github.com/Kneissl-Messtechnik-GmbH/kmt-mess-releases/raw/main/releases/0.2.0/KMT%20Messsoftware.app.tar.gz"
+    }
+  }
 }
